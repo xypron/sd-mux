@@ -1,11 +1,5 @@
-sd-mux-ctrl (0.0.2) UNRELEASED; urgency=medium
+sd-mux-ctrl (0.0.2+nmu3) unstable; urgency=medium
 
-  * Add control of dynamic jumpers DyPers.
+  * Non-maintainer upload.
 
- -- Adam Malinowski <a.malinowsk2@partner.samsung.com>  Fri, 01 Jul 2016 11:00:35 +0100
-
-sd-mux-ctrl (0.0.1) UNRELEASED; urgency=medium
-
-  * Initial release.
-
- -- Adam Malinowski <a.malinowsk2@partner.samsung.com>  Tue, 16 Feb 2016 09:31:30 +0100
+ -- Heinrich Schuchardt <xypron.glpk@gmx.de>  Sun, 27 Oct 2019 22:59:06 +0100
